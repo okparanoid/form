@@ -1,3 +1,5 @@
-# [okparanoid.github.io](https://okparanoid.github.io)
+Форма регистрации срегулярными выражениями
 
-версия v0.0.2
+[Ссылка на форму](https://okparanoid.github.io)
+
+версия v1.0.0
