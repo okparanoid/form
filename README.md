@@ -1,5 +1,5 @@
 # Форма регистрации с регулярными выражениями
 
-[Ссылка на форму](https://okparanoid.github.io)
+[Ссылка на форму](https://okparanoid.github.io/form/)
 
 версия v1.0.0
